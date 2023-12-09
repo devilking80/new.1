@@ -1,3 +1,14 @@
+.body{
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Nitte-Meenakshi-Institute-of-Technology-NMIT-Bengaluru-Campus-View-2.jpg");
+  background-position: 100%;
+  background-position: 0%;
+  background-position-y:bottom;
+  
+}
+
+ .body{
+  min-height: 363px;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 18vw;
 }

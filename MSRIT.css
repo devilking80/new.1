@@ -1,3 +1,13 @@
+.body{
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/msritback.jpg");
+  background-position: 100%;
+  background-position-y: center;
+  
+}
+
+ .body{
+  min-height: 363px;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 363PX;
 }
